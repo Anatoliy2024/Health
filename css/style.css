@@ -127,6 +127,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1437px;
+  overflow: hidden;
 }
 .wrap {
   display: -webkit-box;
