@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Larsseit';
+    src: url('Larsseit.eot');
+    src: url('Larsseit.eot?#iefix') format('embedded-opentype'),
+        url('Larsseit.woff2') format('woff2'),
+        url('Larsseit.woff') format('woff'),
+        url('Larsseit.ttf') format('truetype'),
+        url('Larsseit.svg#Larsseit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
